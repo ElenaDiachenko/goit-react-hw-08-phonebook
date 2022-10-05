@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/goit-react-hw-08-phonebook/static/css/main.c3d5249d.css",
-    "main.js": "/goit-react-hw-08-phonebook/static/js/main.7af37b24.js",
+    "main.js": "/goit-react-hw-08-phonebook/static/js/main.922e9e8e.js",
     "static/js/206.df924acb.chunk.js": "/goit-react-hw-08-phonebook/static/js/206.df924acb.chunk.js",
-    "static/js/59.b59f3091.chunk.js": "/goit-react-hw-08-phonebook/static/js/59.b59f3091.chunk.js",
+    "static/js/881.975b6e16.chunk.js": "/goit-react-hw-08-phonebook/static/js/881.975b6e16.chunk.js",
     "static/js/915.525f8175.chunk.js": "/goit-react-hw-08-phonebook/static/js/915.525f8175.chunk.js",
     "static/js/687.9ac1a3b1.chunk.js": "/goit-react-hw-08-phonebook/static/js/687.9ac1a3b1.chunk.js",
     "static/js/708.f9f3d08c.chunk.js": "/goit-react-hw-08-phonebook/static/js/708.f9f3d08c.chunk.js",
     "static/js/432.491f25f2.chunk.js": "/goit-react-hw-08-phonebook/static/js/432.491f25f2.chunk.js",
     "index.html": "/goit-react-hw-08-phonebook/index.html",
     "main.c3d5249d.css.map": "/goit-react-hw-08-phonebook/static/css/main.c3d5249d.css.map",
-    "main.7af37b24.js.map": "/goit-react-hw-08-phonebook/static/js/main.7af37b24.js.map",
+    "main.922e9e8e.js.map": "/goit-react-hw-08-phonebook/static/js/main.922e9e8e.js.map",
     "206.df924acb.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/206.df924acb.chunk.js.map",
-    "59.b59f3091.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/59.b59f3091.chunk.js.map",
+    "881.975b6e16.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/881.975b6e16.chunk.js.map",
     "915.525f8175.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/915.525f8175.chunk.js.map",
     "687.9ac1a3b1.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/687.9ac1a3b1.chunk.js.map",
     "708.f9f3d08c.chunk.js.map": "/goit-react-hw-08-phonebook/static/js/708.f9f3d08c.chunk.js.map",
@@ -20,6 +20,6 @@
   },
   "entrypoints": [
     "static/css/main.c3d5249d.css",
-    "static/js/main.7af37b24.js"
+    "static/js/main.922e9e8e.js"
   ]
 }
